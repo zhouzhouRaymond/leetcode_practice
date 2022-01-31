@@ -2482,6 +2482,6 @@ class Solution_216 {
 };
 
 int main() {
-  std::cout << "It's ok!!!" << std::endl;
+  std::cout << "It's ok!" << std::endl;
   return 0;
 }
