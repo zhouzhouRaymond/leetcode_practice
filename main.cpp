@@ -2468,7 +2468,7 @@ class Solution_90 {
 // 216. 组合总和 III
 class Solution_216 {
  public:
-  vector<vector<int>> combinationSum3(int k, int n) {}
+  vector<vector<int>> combinationSum3(int k, int n) { return {}; }
 
  private:
   vector<vector<int>> ans;
